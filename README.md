@@ -1,10 +1,10 @@
 - 👋 Hi, I’m sri
 - 👀 I’m interested in .coding..
-- 🌱 I’m currently learning ...css, javascript, java, html
+- 🌱 I’m currently learning ...css, javascript, java, html, python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...srijita777mukherjee@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ...I am a singer too 🎸🎤
 
 <!---
 Xijita/Xijita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
